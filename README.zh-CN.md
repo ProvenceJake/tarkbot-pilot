@@ -10,6 +10,8 @@
 </p>
 <p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 <p align="center">
+  <a href="https://github.com/ProvenceJake/tarkbot-pilot/releases/download/v0.9.1/Tarkbot-Pilot-0.9.1-arm64.apk"><strong>下载安卓 APK</strong></a> ·
+  <a href="https://github.com/ProvenceJake/tarkbot-pilot/releases/tag/v0.9.1">版本说明</a> ·
   <a href="#开始连接">开始连接</a> ·
   <a href="#从源码构建">从源码构建</a> ·
   <a href="https://github.com/ProvenceJake/tarkbot-pilot/issues">反馈问题</a>
@@ -32,7 +34,7 @@ Tarkbot Pilot 把安卓手机变成 **TARKBOT R20-MEC** 小车的相机与运动
 
 ## 开始连接
 
-1. 构建并安装应用，首次打开时允许相机权限。
+1. 下载并安装[安卓 APK](https://github.com/ProvenceJake/tarkbot-pilot/releases/download/v0.9.1/Tarkbot-Pilot-0.9.1-arm64.apk)，首次打开时允许相机权限。该调试预览包适用于运行安卓 8.0 及以上版本的 ARM64 手机。
 2. 给小车供电，用 USB OTG 转接头和数据线连接手机与 OpenCTR 的 USB 数据口。
 3. 点击**连接控制器**，允许 USB 权限并等待有效遥测。
 4. 架空车轮后点击**解锁运动**并确认。轻推摇杆测试，松手后检查车轮是否停止。解锁后也可点击底部状态条急停。

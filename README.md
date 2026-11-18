@@ -10,6 +10,8 @@
 </p>
 <p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
 <p align="center">
+  <a href="https://github.com/ProvenceJake/tarkbot-pilot/releases/download/v0.9.1/Tarkbot-Pilot-0.9.1-arm64.apk"><strong>Download Android APK</strong></a> ·
+  <a href="https://github.com/ProvenceJake/tarkbot-pilot/releases/tag/v0.9.1">Release notes</a> ·
   <a href="#get-connected">Get connected</a> ·
   <a href="#build-from-source">Build from source</a> ·
   <a href="https://github.com/ProvenceJake/tarkbot-pilot/issues">Report an issue</a>
@@ -32,7 +34,7 @@ Person detection runs on the phone with EfficientDet-Lite0. If the target update
 
 ## Get connected
 
-1. Build and install the app on the phone, then allow camera access.
+1. Download and install the [Android APK](https://github.com/ProvenceJake/tarkbot-pilot/releases/download/v0.9.1/Tarkbot-Pilot-0.9.1-arm64.apk), then allow camera access. The APK is a debug preview for ARM64 phones running Android 8.0 or later.
 2. Power the rover and connect the OpenCTR data port to the phone with a USB OTG adapter and a data cable.
 3. Tap **Connect controller (连接控制器)**, grant USB access, and wait for valid telemetry.
 4. Elevate the wheels. Select **Unlock motion (解锁运动)** and confirm. Test the joystick and release it to check that the wheels stop. The status bar also acts as a stop button while motion is unlocked.
