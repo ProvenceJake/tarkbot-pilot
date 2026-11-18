@@ -1,0 +1,11 @@
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+**/build/
+captures/
+.DS_Store
+*.jks
+*.keystore
+/app/src/androidTest/assets/person_test.jpg

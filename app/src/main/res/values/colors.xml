@@ -1,0 +1,10 @@
+<resources>
+    <color name="pilot_background">#071018</color>
+    <color name="pilot_surface">#101D28</color>
+    <color name="pilot_primary">#2ED6A1</color>
+    <color name="pilot_accent">#5DB8FF</color>
+    <color name="pilot_warning">#FFB74D</color>
+    <color name="pilot_error">#FF6B6B</color>
+    <color name="pilot_text">#F3F7FA</color>
+    <color name="pilot_text_muted">#A8BAC8</color>
+</resources>
